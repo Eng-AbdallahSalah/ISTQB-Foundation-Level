@@ -31,7 +31,12 @@ Lectures </b>  </a>
 
 ## Quizes and Exercises:
 <img align="center" src="https://github.com/user-attachments/assets/bfafb91d-3df5-43c5-a4bd-4c7dc0b45a5b"  height="30" width="40" style="max-width: 100%;">  
+<a href="">Exercises </a>
 
+## Certification: 
+<img align="center" src="https://github.com/user-attachments/assets/235be503-fb92-4711-b4e6-d66825fe0919"  height="40" width="40" style="max-width: 100%;">  
+<a href="https://drive.google.com/f9cq2631pWFmNVmlXa/view?usp=sharing" > <b> 
+Certificate </b>  </a>
 
 ## Social Media:
 <div >
